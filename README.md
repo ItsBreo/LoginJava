@@ -8,6 +8,6 @@ Ejemplo práctico sobre un Login con registro e inicio de sesión de usuarios de
   
 ### Estructura del Proyecto
 ```plaintext
-- /carpeta-principal
+- /LoginJava
   ├── README.md          # Documentación principal
   ├── /Act5              # Código fuente
